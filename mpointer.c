@@ -17,4 +17,4 @@ int main()
 	void func1(int* p){*p = *p+100;}
 	void func2(int** p){**p = **p+100;}
 	void func3(int*** p){***p = ***p+100;}
-	void func4(int**** p){****p = ****p10}
+	void func4(int**** p){****p = ****p+100;}//fads
